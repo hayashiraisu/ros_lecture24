@@ -1,6 +1,5 @@
 def greet(RRR):
-    print ("Hello"+RRR)
+    print("Hello"+RRR)
 
-    greet("kazkuji")
-    greet("rouji")
-    
+greet("kazkuji")
+greet("rouji")
